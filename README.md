@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Instagram comments to identify user sentiment. Using Python and data analysis techniques, comments are cleaned, processed, and categorized into positive, negative, and neutral sentiments. The analysis helps understand user reactions and engagement patterns.
+The project analyzes Instagram comments to identify user sentiment. Using Python and data analysis techniques, comments are cleaned, processed, and categorized into positive, negative, and neutral sentiments. The analysis helps understand user reactions and engagement patterns.
 
 ## Objectives
 
@@ -53,4 +53,5 @@ Worst update ever
 ## Results
 
 The analysis provides insights into user sentiment by classifying comments and visualizing the distribution of positive, negative, 
+
 and neutral responses.

@@ -52,6 +52,5 @@ Worst update ever
 
 ## Results
 
-The analysis provides insights into user sentiment by classifying comments and visualizing the distribution of positive, negative, 
+The analysis provides insights into user sentiment by classifying comments and visualizing the distribution of positive, negative, and neutral responses.
 
-and neutral responses.
